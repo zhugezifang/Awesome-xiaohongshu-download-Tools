@@ -1,6 +1,14 @@
 # 2025年6款小红书图片视频无水印下载工具推荐
 
-## 0.RedNote(Xiaohongshu) Video Downloader Without Watermark
+## 0.小红书去水印视频下载器
+网址: https://www.xhs-download.org/
+
+特点：免费
+
+<img width="2582" height="1216" alt="image" src="https://github.com/user-attachments/assets/9d8f575d-ce12-4eb0-9d77-2b43f8254adf" />
+
+
+## 1.RedNote(Xiaohongshu) Video Downloader Without Watermark
 网址: https://rednote-downloader.online/
 
 特点：免费
@@ -8,29 +16,20 @@
 ![image](https://github.com/user-attachments/assets/f181d22a-56bc-4e72-a654-7ee22bc99d60)
 
 
-## 1.小红书去水印图片视频下载 
+## 2.小红书去水印图片视频下载 
 网站地址: https://www.xhs-download.online/
 
 特点: 小红书去水印图片视频下载指的是从小红书平台上下载图片和视频，并去除其中的水印，使得下载内容更加清晰和美观。这对于那些需要保存干净素材的用户来说非常重要。
 
 <img width="1697" alt="image" src="https://github.com/user-attachments/assets/c7703297-145f-43bd-9790-4b80194fd706" />
 
-## 2.kutool-小红书去水印
+## 3.kutool-小红书去水印
 
 网站地址：https://dy.kukutool.com/
 
 特点：无水印下载130多个平台视频和图片
 
 <img width="1322" alt="image" src="https://github.com/user-attachments/assets/51a3e870-05f0-48bd-9e0f-0e505f43b3a4" />
-
-## 3.下载狗——小红书去水印工具
-
-网站地址：https://www.xiazaitool.com/xhs
-
-特点：好用的小红书图片视频去水印工具，支持小红书图片视频在线去水印，小红书图片保存，小红书视频下载提取!电脑，平板，手机都可以在线使用。
-
-<img width="1526" alt="image" src="https://github.com/user-attachments/assets/94439c54-c235-4cf9-91fd-e7910447602f" />
-
 
 ## 4.RedNote 视频下载器 - 下载无水印的视频
 
