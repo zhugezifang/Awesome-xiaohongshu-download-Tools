@@ -1,5 +1,7 @@
 # 2026年6款小红书图片视频无水印下载工具推荐
 
+英文版本：https://github.com/zhugezifang/rednotevideodownloader
+
 ## 0.小红书去水印视频下载器
 网址: https://www.xhs-download.org/
 
