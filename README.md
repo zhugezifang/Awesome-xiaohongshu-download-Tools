@@ -79,7 +79,7 @@ Check out our other tools and services:
 
 [share-text.org](https://share-text.org/)
 
-[checkcosmetic.online](https://checkcosmetic.online/)
+[https://cv-template.online/](https://cv-template.online/)
 
 [checkcosmetic.online](https://checkcosmetic.online/)
 
