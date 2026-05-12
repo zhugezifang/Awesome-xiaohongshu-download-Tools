@@ -85,6 +85,9 @@ Check out our other tools and services:
 
 [BatchCodeChecker.org](https://batchcodechecker.org/)
 
+[https://notepadlink.online/](https://notepadlink.online/)
+
+[pdf to link](https://pdf2url.com/)
 
 
 
