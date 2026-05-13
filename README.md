@@ -7,9 +7,6 @@
 
 特点：免费
 
-<img width="2582" height="1216" alt="image" src="https://github.com/user-attachments/assets/9d8f575d-ce12-4eb0-9d77-2b43f8254adf" />
-
-
 ## 1.RedNote(Xiaohongshu) Video Downloader Without Watermark
 网址: https://rednote-downloader.online/
 
