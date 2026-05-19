@@ -85,6 +85,10 @@ Check out our other tools and services:
 
 [pdf to link](https://pdf2url.com/)
 
+[免费在线pdf工具](https://www.pdf24tools.online/zh)
+
+[免费在线工具箱](https://www.10015tools.online/zh)
+
 
 
 
