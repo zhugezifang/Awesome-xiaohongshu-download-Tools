@@ -3,16 +3,16 @@
 英文版本：https://github.com/zhugezifang/rednotevideodownloader
 
 ## 0.小红书去水印视频下载器
-网址: https://rednotevideodownload.org/zh
-
-特点：免费
-
-## 1.RedNote(Xiaohongshu) Video Downloader Without Watermark
-网址: https://rednote-downloader.online/
+网址:  https://rednote-downloader.online/zh
 
 特点：免费
 
 ![466332503-9d8f575d-ce12-4eb0-9d77-2b43f8254adf.png](https://share-text.org/api/imgUrl?text=kVQdJGMb/466332503-9d8f575d-ce12-4eb0-9d77-2b43f8254adf.png)
+
+## 1.RedNote(Xiaohongshu) Video Downloader Without Watermark
+网址: https://rednotevideodownload.org/zh
+
+特点：免费
 
 ## 2.小红书去水印图片视频下载 
 网站地址: https://www.xhs-download.online/
