@@ -90,11 +90,6 @@ Check out our other tools and services:
 
 [免费在线工具箱](https://www.10015tools.online/zh)
 
+[Bird Call Identifier](https://birdfinder.app/bird-call-identifier)
 
-
-
-
-
-
-
-
+[Bird Egg Identifier](https://birdfinder.app/bird-egg-identifier)
