@@ -72,6 +72,10 @@
 
 Check out our other tools and services:
 
+[https://www.pdf24tools.online/](https://www.pdf24tools.online/)
+
+[https://www.10015tools.online/zh](https://www.10015tools.online/zh)
+
 [onlinenotepad101](https://onlinenotepad101.org/)
 
 [share-text.org](https://share-text.org/)
